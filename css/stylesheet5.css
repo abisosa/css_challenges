@@ -1,0 +1,47 @@
+body {
+	width:1200px;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+#logo h1 {
+	display: none;
+}
+#logo {
+	float: left;
+}
+#header p {
+	float: right;
+	font-family: Arial;
+	font-size: 36px;
+	font-style: italic;
+	margin-right: 200px;
+}
+#content {
+	clear:both;
+	width: 900px;
+}
+#content-side {
+	float:left;
+	width:300px;
+	font-family: sans-serif;
+}
+#content-side dd{
+	font-size:14px;
+}
+#content-side a {
+	color:#b1a28a;
+	font-size: 16px;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+#content-main {
+	float:right;
+	width: 550px;
+	font-family: sans-serif;
+}
+#content-main a {
+	color:#b1a28a;
+}
+#content-main h2 {
+	line-height: 0%;
+}
